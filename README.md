@@ -7,7 +7,8 @@
 - 📫 How to reach me **bojan.ilic2404@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ilic-bojan/)
 - 📄 Know about my experiences [CV/Resume](link)
 
-<h4 align="left">Skills</h4>
+<h4 align="left">Skills:</h4>
+
 - Back-End: C#, .NET Core(MVC & Web API), Entity Framework, SQL, T-SQL, Relational Databases
 - Front-End: HTML, CSS(Sass), JavaScript, TypeScript, React
 - Other: Git, OOP, ORM, REST API, UML, JSON
