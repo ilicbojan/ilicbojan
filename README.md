@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [**BasketLeague**](https://github.com/ilicbojan/basket-league)
 - 🌱 I’m currently learning **unit testing and TDD**
 - 👨‍💻 All of my projects are available at [**ilicbojan.com**](https://ilicbojan.com)
-- 📫 How to reach me **bojan.ilic2404@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ilic-bojan/)
+- 📫 How to reach me? **bojan.ilic2404@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ilic-bojan/)
 - 📄 Know about my experiences [**CV/Resume**](link)
 
 <h3 align="left">Skills:</h3>
