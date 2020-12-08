@@ -2,7 +2,7 @@
 <h3>A passionate software developer from Serbia</h3>
 
 - 🔭 I’m currently working on [**BasketLeague**](https://github.com/ilicbojan/basket-league)
-- 🌱 I’m currently learning **unit testing and TDD**
+- 🌱 I’m currently learning **testing and TDD**
 - 👨‍💻 All of my projects are available at [**ilicbojan.com**](https://ilicbojan.com)
 - 📫 How to reach me? **bojan.ilic2404@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ilic-bojan/)
 - 📄 Know about my experiences [**CV/Resume**](link)
