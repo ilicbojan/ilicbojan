@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Bojan Ilic</h1>
 <h3>A passionate software developer from Serbia</h3>
 
-- 🔭 I’m currently working on [**BasketLeague**](https://github.com/ilicbojan/basket-league)
-- 🌱 I’m currently learning **testing and TDD**
+- 🔭 I’m currently working on [**basket-league**](https://github.com/ilicbojan/basket-league) project
+- 🌱 I’m currently learning **design patterns and testing**
 - 👨‍💻 All of my projects are available at [**ilicbojan.com**](https://ilicbojan.com)
 - 📫 How to reach me? **bojan.ilic2404@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ilic-bojan/)
 - 📄 Know about my experiences [**CV/Resume**](link)
