@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Bojan Ilic</h1>
-<h3>A passionate software developer from Serbia</h3>
+<h3>A passionate software engineer from Serbia</h3>
 
 - 🔭 I’m currently working on [**basket-league**](https://github.com/ilicbojan/basket-league) project
 - 🌱 I’m currently learning **design patterns and testing**
